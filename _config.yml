@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: fengwithfeng1127
+title: tu0403withyu0723
 subtitle: ''
 description: ''
 keywords:
-author: fengwithfeng1127
+author: tu0403withyu0723
 language:  zh-TW
 timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://fengwithfeng1127.github.io
+url: https://tu0403withyu0723.github.io
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -102,5 +102,5 @@ theme: landscape
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: 'git'
-  repo: https://github.com/fengwithfeng1127/fengwithfeng1127.github.io
+  repo: https://github.com/tu0403withyu0723/tu0403withyu0723.github.io
   branch: main
